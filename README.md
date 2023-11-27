@@ -9,5 +9,5 @@
 </div>
 
 <p> Trabalhando na Hiper Software<br/>Sou Suporte Técnico N3 e entusiasta no desenvolvimento Back-End.</p>
-<p>Entusiasta apaixonado por tecnologia e fascinado pelo universo da programação, acredito no poder transformador de criar algo novo que pode moldar o futuro.</p> 
+<p>Apaixonado por tecnologia e fascinado pelo universo da programação, acredito no poder transformador de criar algo novo que pode moldar o futuro.</p> 
 <hr>
